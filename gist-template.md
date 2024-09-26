@@ -76,7 +76,3 @@ We will explain each part of the regex, including anchors, quantifiers, characte
 
 This tutorial was created by  [Christopher Chhim](https://github.com/Christopher-Chhim). Check out more of my projects on GitHub!  
 
-## Gist Link
-
-For a full breakdown of the regex tutorial please check out my gist here:
-(https://gist.github.com/Christopher-Chhim/818b7e005853e45d03bc378086f95c65)
